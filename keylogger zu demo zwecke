@@ -1,0 +1,52 @@
+Disclaimer:
+Diese Anleitung dient zu Aufklärungs- & Bildungszwecken ! Zudem ist die Anleitung verantwortungsbewusst zu nutzen.
+Die Nutzung der Anleitung ist auf eigene Gefahr, denn der Autor übernimmt keine Garantie für die Richtigkeit der Anleitung und haftet nicht für entstandene Schäden.
+
+
+Aufklärung über Keylogger !
+
+
+Diese Anleitung wurde auf Windows 10 getestet.
+Visual Studuio Code Version 1.81.1
+Chat GPT Version 3.5
+
+
+Das Keylogger-Skript wurde mit ChatGPT erstellt !
+
+
+
+Schritt 1:
+
+a) "Visual Studio Code" von Microsoft herunterladen und installieren.
+https://code.visualstudio.com
+
+
+b) Python Erweiterung installieren (auf offizielle Version von Micrsoft achten, wird durch einen Verifikationshaken gekennzeichnet !)
+
+c) Überprüfen, ob Python installiert ist, wenn nicht mit dem Befehl "pip install keyboard" installieren.
+
+d) Keylogger-Code kopieren und Einfügen.
+
+e) Speichern.
+
+
+
+
+
+
+Schritt 2:
+
+a) Terminal (in Visual Studio Code) öffnen.
+
+b) Im Terminal zum Ordner navigieren in der die .py Datei gespeichert ist.
+
+c) Python Ausführen mit: "python _name_der_py_Datei.py"
+
+
+
+Nun werden alle Tasten aufgezeichnet und in einer Text-Datei gespeichert. 
+Diese wird standartmäßig in dem gleichen Pfad gespeichert, wo auch die .py Datei gespeichert ist.
+
+
+Zum Stoppen des Skriptes:
+Im Terminal einfach "STRG C" drücken.
