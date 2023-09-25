@@ -1,6 +1,11 @@
 Disclaimer:
-Diese Anleitung dient zu Aufklärungs- & Bildungszwecken ! Zudem ist die Anleitung verantwortungsbewusst zu nutzen.
+Diese Anleitung ist ausschließlich für ethical Hacking und dient zur Prevention, sowie für Aufklärungs- & Bildungszwecke !
+Zudem ist die Anleitung verantwortungsbewusst zu nutzen.
 Die Nutzung der Anleitung ist auf eigene Gefahr, denn der Autor übernimmt keine Garantie für die Richtigkeit der Anleitung und haftet nicht für entstandene Schäden.
+
+Intention dieser Anleitung ist es, zu demonstrieren wie einfach es sein kann, mithilfe von KI schädliche Software zu generieren und diese zu nutzen.
+
+Da jedoch auf die Verlässlichkeit sowie Richtigkeit von Code der mit Chat GPT erstellt wurde, kein Verlass ist, empfielt es sich den Code gründlich zu prüfen und nur in einer gesicherten Test-Umgebung auszuführen.
 
 
 Aufklärung über Keylogger !
