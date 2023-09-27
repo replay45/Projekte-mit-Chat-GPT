@@ -1,4 +1,4 @@
-# projekte-mit-chat-gpt
+# Projekte mit CHAT GPT
 
 Da KI immer mehr an Bedeutung im Internet gewinnt und auch immer mehr Personen KI nutzen, ist es dennoch wichtig über Gefahren aufzuklären.
 Daher sind hier Projekte zu finden, die zeigen, dass der Einsazt von KI auch für nicht legale Zwecke möglich ist und um zu demonstrieren, wie einfach das sein kann.
