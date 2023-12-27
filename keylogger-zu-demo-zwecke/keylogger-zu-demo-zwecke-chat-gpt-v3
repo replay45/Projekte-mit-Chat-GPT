@@ -64,7 +64,7 @@ Nun werden alle Tasten aufgezeichnet und in einer Text-Datei gespeichert.
 Diese wird standartmäßig in dem gleichen Pfad gespeichert, wo auch die .py Datei gespeichert ist.
 
 
-Zum Stoppen des Skriptes:
+Zum stoppen des Skriptes:
 Im Terminal einfach "STRG C" drücken.
 
 
