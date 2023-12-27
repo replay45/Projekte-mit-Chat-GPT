@@ -9,6 +9,7 @@ Das Python-Skript:
 
 
 
+
 import keyboard
 
 def main():
