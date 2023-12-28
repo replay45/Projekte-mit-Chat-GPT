@@ -1,14 +1,3 @@
-Disclaimer:
-Diese Anleitung ist ausschließlich für ethical Hacking, sowie für Aufklärungs- & Bildungszwecke !
-Zudem ist die Anleitung, sowie das python-Skript verantwortungsbewusst und nur für legale Zwecke zu nutzen.
-Die Nutzung der Anleitung ist auf eigene Gefahr, denn der Autor übernimmt keine Garantie für die Richtigkeit der Anleitung und haftet nicht für entstandene Schäden.
-
-Hinweis: Versichere dich, dass du dich im Vorfeld mit den Nutzungsbedingungen von Chat GPT vertraut gemacht hast.
-
-Das Python-Skript:
-
-
-
 import keyboard
 
 def main():
