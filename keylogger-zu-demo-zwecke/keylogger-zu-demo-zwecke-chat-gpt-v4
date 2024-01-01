@@ -11,7 +11,7 @@ Das Keylogger-Skript wurde mit Chat GPT erstellt - siehe Screenshot.
 
 
 Diese Anleitung wurde auf Windows 10 getestet.
-Visual Studuio Code Version 1.81.1
+Visual Studio Code Version 1.81.1
 Chat GPT Version 3.5
 
 
@@ -48,7 +48,7 @@ a) Terminal (in Visual Studio Code) öffnen.
 
 b) Im Terminal zum Ordner navigieren in der die .py Datei gespeichert ist.
 
-c) Python Ausführen mit: 
+c) Python ausführen mit:
 $ python name_der_py_Datei.py
 
 
