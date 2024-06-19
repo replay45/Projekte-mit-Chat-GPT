@@ -11,13 +11,6 @@
 6. Python-Skripte suchen
 
 
-------------------------------------------
-
-
-### Disclaimer
-**Es besteht keine absolute Garantie, dass nicht dennoch ein Keylogger auf dem Gerät läuft.**
-
-
 ------------------------------------------------------------------
 
 
@@ -26,6 +19,13 @@ Die **meisten** Keylogger werden in der Programmiersprache Python geschrieben un
 Keylogger können jedoch auch in anderen Sprachen programmiert werden, wie JavaScript, AutoHotkey (ahk), PowerShell und Ruby. Um vollständig ausschließen zu können, dass kein Keylogger aktiv ist, sollte man auch Skripte in diesen Sprachen überprüfen.
 
 **Es gibt verschiedene Möglichkeiten, um nach einem Keylogger in Pythonsprache zu suchen. Hier werden sechs Optionen für Windows, macOS und Linux aufgelistet:**
+
+
+------------------------------------------
+
+
+### Disclaimer
+**Es besteht keine absolute Garantie, dass nicht dennoch ein Keylogger auf dem Gerät läuft.**
 
 
 --------------------------------------------------------------
