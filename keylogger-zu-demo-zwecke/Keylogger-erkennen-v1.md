@@ -53,14 +53,14 @@ Linux:
 
 Manchmal können solche Skripte so eingestellt sein, dass sie beim Hochfahren des Systems automatisch starten. Überprüfe daher die Autostart-Einträge:
 
-Unter Windows: 
-Öffne den Task-Manager und gehe zu "Autostart"
+Windows:
+- Öffne den Task-Manager und gehe zu "Autostart"
 
-Unter macOS: 
-Gehe zu `Systemeinstellungen` -> Benutzer & Gruppen -> Anmeldeobjekte`
+macOS:
+- Gehe zu `Systemeinstellungen` -> Benutzer & Gruppen -> Anmeldeobjekte`
 
-Unter Linux: 
-Überprüfe die `.bashrc`, `.bash_profile`, `.profile` oder die `crontab`-Einträge (`crontab -l` im Terminal)
+Linux:
+- Überprüfe die `.bashrc`, `.bash_profile`, `.profile` oder die `crontab`-Einträge (`crontab -l` im Terminal)
 
 -----------------------------------------------------------------------------------------------------------------
 
@@ -68,11 +68,11 @@ Unter Linux:
 
 Solche Skripte speichern die Tasteneingaben oft in einer Datei. Suche nach kürzlich geänderten Dateien:
 
-Unter Windows: 
-Benutze die Dateisuche, um Dateien zu finden, die kürzlich geändert wurden
+Windows: 
+- Benutze die Dateisuche, um Dateien zu finden, die kürzlich geändert wurden
 
-Unter macOS und Linux: 
-Verwende das Terminal und führe den Befehl `find / -type f -mtime -1` aus, um Dateien zu finden, die in den letzten 24 Stunden geändert wurden. Du kannst die Zeitspanne nach Bedarf anpassen
+macOS und Linux: 
+- Verwende das Terminal und führe den Befehl `find / -type f -mtime -1` aus, um Dateien zu finden, die in den letzten 24 Stunden geändert wurden. Du kannst die Zeitspanne     nach Bedarf anpassen
 
 ----------------------------------------------------------------------
 
@@ -80,14 +80,14 @@ Verwende das Terminal und führe den Befehl `find / -type f -mtime -1` aus, um D
 
 Einige Keylogger senden die gesammelten Daten über das Netzwerk:
 
-Unter Windows:
-Benutze den Ressourcenmonitor (`Ressourcenmonitor` im Task-Manager) und überprüfe die Netzwerkaktivität
+Windows:
+- Benutze den Ressourcenmonitor (`Ressourcenmonitor` im Task-Manager) und überprüfe die Netzwerkaktivität
 
-Unter macOS: 
-Verwende das Netzwerk-Dienstprogramm (`netstat` Befehl im Terminal)
+macOS: 
+- Verwende das Netzwerk-Dienstprogramm (`netstat` Befehl im Terminal)
 
-Unter Linux: 
-Verwende `netstat -tuln` oder `iftop` (muss eventuell installiert werden)
+Linux: 
+- Verwende `netstat -tuln` oder `iftop` (muss eventuell installiert werden)
 
 ----------------------------------------------------------------------------------
 
@@ -102,10 +102,10 @@ Führe einen vollständigen Systemscan mit einer aktuellen Antivirus- oder Anti-
 Durchsuche dein Dateisystem nach Python-Skripten:
 
 Windows: 
-Verwende die Dateisuche im Explorer, um nach `*.py`-Dateien zu suchen
+- Verwende die Dateisuche im Explorer, um nach `*.py`-Dateien zu suchen
 
 macOS und Linux:
-Verwende das Terminal und führe `find / -name "*.py"` aus
+- Verwende das Terminal und führe `find / -name "*.py"` aus
 
 ------------------------------------------------------------------------------
 
