@@ -1,5 +1,18 @@
 
-## Wie kann man herausfinden, ob ein Keylogger auf seinem Gerät läuft?
+# Läuft ein Keylogger auf meinem PC?
+
+
+## Inhaltsverzeichnis
+1. Überprüfe laufende Prozesse
+2. Überprüfe Autostart-Einträge
+3. Überprüfe verdächtige Dateien
+4. Netzwerkaktivität überwachen
+5. Antivirus- oder Anti-Malware-Software
+6. Python-Skripte suchen
+
+
+------------------------------------------
+
 
 Die **meisten** Keylogger werden in der Sprache Python geschrieben und werden als .py-Datei gespeichert. Deswegen folgt hier eine Anleitung, wie nach Python-Skripte auf einem Gerät gesucht werden kann. 
 
@@ -7,20 +20,18 @@ Keylogger können jedoch auch in anderen Sprachen programmiert werden:
 JavaSkript, AutoHotkey (ahk), PowerShell und Ruby.
 Um vollständig ausschließen zu können, dass kein Keylogger mitschreibt müsste eine Ausschließung auch von diesen Sprachen folgen. 
 
-## Es gibt verschiedene Möglichkeiten, um nach einem Keylogger in Pythonsprache zu suchen. Hier werden sechs Optionen für Windows, macOS und Linux aufgelistet:
 
-```
-1. Überprüfe laufende Prozesse
-2. Überprüfe Autostart-Einträge
-3. Überprüfe verdächtige Dateien
-4. Netzwerkaktivität überwachen
-5. Antivirus- oder Anti-Malware-Software
-6. Python-Skripte suchen
-```
+------------------------------------------------------------------
 
+
+### Disclaimer
 **Es besteht keine absolute Garantie, dass nicht dennoch ein Keylogger auf dem Gerät läuft.**
 
+**Es gibt verschiedene Möglichkeiten, um nach einem Keylogger in Pythonsprache zu suchen. Hier werden sechs Optionen für Windows, macOS und Linux aufgelistet:**
+
+
 --------------------------------------------------------------
+
 
 **1. Überprüfe laufende Prozesse**
 
