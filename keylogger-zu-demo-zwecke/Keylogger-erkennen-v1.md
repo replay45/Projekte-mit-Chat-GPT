@@ -109,4 +109,4 @@ macOS und Linux:
 
 ------------------------------------------------------------------------------
 
-Wenn man ein verdächtiges Python-Skript gefunden hat, öffne in einen Texteditor und suche nach Bibliotheken wie `pynput`, `keyboard`, oder `pyxhook`, die zur Tastatureingabeüberwachung verwendet werden, um auch zu überprüfen, ob die verdächtige Datei ein Keylogger ist. 
+**Wenn man ein verdächtiges Python-Skript gefunden hat, öffne in einen Texteditor und suche nach Bibliotheken wie `pynput`, `keyboard`, oder `pyxhook`, die zur Tastatureingabeüberwachung verwendet werden, um auch zu überprüfen, ob die verdächtige Datei ein Keylogger ist.**
