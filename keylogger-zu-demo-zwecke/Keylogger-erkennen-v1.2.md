@@ -4,7 +4,7 @@
 ## Inhaltsverzeichnis
 
 1. Was ist ein Keylogger ?
-2. Windows Freihand-& Eingabeanpassung - oder auch Microsofts Keylogger 
+2. Windows Freihand-& Eingabeanpassung - oder auch "Microsofts Keylogger" ?
 3. Überprüfen laufender Prozesse
 4. Überprüfen von Autostart-Einträgen
 5. Überprüfen verdächtiger Dateien
@@ -55,11 +55,21 @@ Es ist daher ratsam, auch die USB-Verbindungen zum PC zu prüfen.
 ----------------------------------------------------------------------------------------------------------------
 
 
-2. Windows Freihand-& Eingabeanpassung - oder auch Microsofts Keylogger 
+# 2. Windows Freihand-& Eingabeanpassung - oder auch "Microsofts Keylogger" ?
 
 
-folgt in Kürze
+Die Windows Freihand- & Eingabeanpassung ist eine Funktion, die Eingaben in Anwendungen verbessert, indem sie das Nutzerverhalten analysiert, ein persönliches Wörterbuch anlegt und Vorschläge macht. Dies kann die Geschwindigkeit und Effizienz bei der Eingabe von Texten, auf Kosten des Datenschutzes, erhöhen.
 
+
+Auch wenn die Freihand-& Eingabeanpassung genaugenommen kein Keylogger ist, empfiehlt es sich jedoch, diese datenschutzunfreundliche Funktion zu deaktivieren, damit Windows keine Tastatureingaben aufzeichnet.
+
+
+## Deaktivierung der Windows Freihand- & Eingabeanpassung:
+
+- Öffnen der Einstellungen.
+- Zu Datenschutz & Sicherheit gehen.
+- Im Menü „Freihand und Eingabeanpassung“ wählen.
+- Deaktivieren der Funktion.
 
 
 ----------------------------------------------------------------------------------------------------------------
@@ -203,3 +213,4 @@ Das Skript kann in einem beliebigen Texteditor geöffnet werden, um eine manuell
 
 
 ----------------------------------------------------------------------------------------------------------------
+
