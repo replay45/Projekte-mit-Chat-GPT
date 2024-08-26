@@ -1,8 +1,10 @@
 # Projekte mit CHAT GPT
 
-Da KI immer mehr an Bedeutung im Internet gewinnt und auch immer mehr Personen KI nutzen, ist es dennoch wichtig, über Gefahren aufzuklären.
+Da KI oder auch AI, immer mehr an Bedeutung im Internet gewinnt und auch immer mehr Personen large language models (LLMs), wie z.B. Chat GPT nutzen, ist es wichtig über Gefahren aufzuklären.
 Daher sind hier Projekte zu finden, die zeigen, was mit dem Einsatz von large language models (LLMs), umgangssprachlich als "KI" bezeichnet, möglich ist.
- 
+
+
+Da die Inhalte in diesem Repository auf large language models (LLMs), umgangssprachlich als "KI" bezeichnet, fokussieren, wird hier ausdrücklich darauf hingewiesen, dass bei allen Inhalten "KI" zur Erstellung oder zur Überarbeitung genutzt worden ist.
 
 
 ### Disclaimer
