@@ -9,7 +9,6 @@ empfielt es sich, den Code gründlich zu prüfen und nur in einer gesicherten Te
 
 `Chat GPT Version: 3.5`
 
-
 `Diese Anleitung wurde am 30.1.2024 verfasst.`
 
 
@@ -28,12 +27,12 @@ $ pip install PyPDF2
 
 2. Code erstellen:
 
-Nun kann Chat GPT geöffnet werden und der gewünschte Python Code erstellt werden.
+- Nun kann Chat GPT geöffnet werden und der gewünschte Python Code erstellt werden.
 
-Dafür kann z.B. in die Eingabe von Chat GPT Folgendes eingegeben werden:
-"Schreibe ein Python-Programm, womit man PDFs mit einem Passwort schützen kann."
+- Dafür kann z.B. in die Eingabe von Chat GPT Folgendes eingegeben werden:
+`"Schreibe ein Python-Programm, womit man PDFs mit einem Passwort schützen kann."`
 
-Bei dem erstellten Code müssen natürlich die Platzhalter mit dem Pfad und dem gewünschten Passwort ersetzt werden !
+- Bei dem erstellten Code müssen natürlich die Platzhalter mit dem Pfad und dem gewünschten Passwort ersetzt werden !
 
 
 -----------------------------------------------------------------------------------------------------------------------------
@@ -41,8 +40,9 @@ Bei dem erstellten Code müssen natürlich die Platzhalter mit dem Pfad und dem 
 
 3. PDF mit einem Passwort schützen:
 
-- Code kopieren und in eine Datei einfügen. 
-- Diese als "pdf-pw-schutz.py" speichern.
+- Code kopieren und in eine Datei einfügen.
+- Diese als `pdf-pw-schutz.py` speichern.
+- Es empfiehlt sich, ein Backup der PDF-Datei zu erstellen, falls der Verschlüsselungsvorgang fehlschlägt.
 
 
 -----------------------------------------------------------------------------------------------------------------------------
@@ -54,8 +54,7 @@ Bei dem erstellten Code müssen natürlich die Platzhalter mit dem Pfad und dem 
 $ python3 pdf-pw-schutz.py
 ```
 
-- Nun sollte die folgende Meldung erscheinen:
-	 `"PDF wurde erfolgreich mit dem Passwort geschützt"`
+- Nun sollte die folgende Meldung erscheinen: `"PDF wurde erfolgreich mit dem Passwort geschützt"`
 
 - Jetzt kann die ausgewählte PDF geöffnet werden, um zu verifizieren, dass das Passwort erfolgreich gesetzt wurde.
 
@@ -69,3 +68,8 @@ $ python3 pdf-pw-schutz.py
 
 -----------------------------------------------------------------------------------------------------------------------------
 
+
+Die fertige Python-Datei ist in diesem Ordner zu finden.
+
+
+------------------------------------------------------------------------------------------------------------------
